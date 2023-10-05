@@ -4,7 +4,7 @@ I build products aimting to make the world a better place and offer consulting s
 
 - 🤖 I work primarily with python and django but dabble in a few other languages as well.
 - 🌱 I’m currently paving the way for digital mental health at https://apoth.app 
-- 📫 You can drop me an [email](mailto:dylan@apoth.app), send me a message on [LinkedIn](linkedin.com/in/dylan-demarco/), or [grab a virtual coffee with me](https://dotcal.co/dd/crisplettuce-15)
+- 📫 You can drop me an [email](mailto:dylan@apoth.app), send me a message on [LinkedIn](https://linkedin.com/in/dylan-demarco/), or [grab a virtual coffee with me](https://dotcal.co/dd/crisplettuce-15)
 
 <!---
 ddemarco96/ddemarco96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
