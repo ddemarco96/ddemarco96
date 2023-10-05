@@ -1,6 +1,6 @@
 👋 Hi, I’m Dylan (@ddemarco96)
 
-I build products with the aim of making the world a better place and offer consulting services for teams and individuals with similar goals. My background is in the intersection between behavior science and software engineering. I'm a researcher with a passion for improvement, whether it's myself, the projects I work on, or the world around me.
+I build products aimting to make the world a better place and offer consulting services for teams and individuals with similar goals. My background is in the intersection between behavior science and software engineering. I’m a researcher and an engineer, meaning I’m passionate about understanding the world but also constantly trying to debug it.
 
 - 🤖 I work primarily with python and django but dabble in a few other languages as well.
 - 🌱 I’m currently paving the way for digital mental health at https://apoth.app 
